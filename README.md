@@ -1,4 +1,3 @@
-# ExtremeWorld_CQNU
 ## 项目概述
 游戏种类：</br>Mmorpg</br>
 语言:</br>C#</br>
